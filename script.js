@@ -9,4 +9,4 @@ console.log("Welcome to Noluvo's Portfolio! 🚀");
 // - Mobile navigation
 // - Typing effect
 // - Project filtering
-// - Dark/Light mode (optional)
+
